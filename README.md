@@ -34,7 +34,7 @@ Wazuh successfully detected:
 
 Sample Alert
 
-![Failed Login](images/failed-login.png)
+![Failed Login](images/Failed-login.png)
 
 - Description: Logon failure - unknown user or bad password  
 - Severity Level: 5  
@@ -43,16 +43,16 @@ Sample Alert
 
 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 Agent Status
 
-![Agent](images/agent.png)
+![Agent](images/Agent.png)
 
 
 Event Details
 
-![Event Details](images/event-details.png)
+![Event Details](images/Event-details.png)
 
 Key Learnings
 - Understanding SIEM architecture  
