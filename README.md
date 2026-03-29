@@ -77,7 +77,7 @@ Wazuh successfully detected:
 
 ### Sample Alert
 
-![Failed Login](images/failed-login.png)
+>> Failed Login
 
 - **Description:** Logon failure – unknown user or bad password  
 - **Severity Level:** 5 (Medium)  
@@ -107,13 +107,13 @@ A failed login attempt was detected on the Windows endpoint, indicating an authe
 
 ---
 
-![Event Details](images/event-details.png)
+>> Event Details
 
 ---
 
 --> Dashboard
 
-![Dashboard](images/dashboard.png)
+>> Dashboard
 
 The dashboard provides an overview of:
 - Security events  
@@ -124,7 +124,7 @@ The dashboard provides an overview of:
 
 --> Agent Status
 
-![Agent](images/agent.png)
+>> Agent
 
 - Confirms Windows endpoint is actively monitored  
 - Ensures log collection is functioning correctly  
